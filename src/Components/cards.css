@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+.cardkaabba{
+    border-radius: 5%;
+
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.card1{
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-top: 20px;
+    background-color: #ffffff;
+    
+}
+
+.card2{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+
+}
+
+.singleUser{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+   
+}
+.splitBillPar2{
+    width: 340px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 350px;
+    background-color: #fcf2e0;
+    padding: 20px;
+    border-radius: 5%;
+    margin-left: -100px;
+    margin-top: 20px;  
+    font-family: cursive;
+}
